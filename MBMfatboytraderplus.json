@@ -1,0 +1,130 @@
+{
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front_Spoked",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear_Spoked"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_White",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Pink",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Green",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Orange",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Gold",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front_Spoked",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear_Spoked"
+      ]
+    },
+    {
+      "VehicleName": "MBM_HarleyDavidsonFatBoy_Police",
+      "Height": 0,
+      "VehicleParts": [
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_HarleyFatBoy_SaddleBags",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+        "MBM_HarleyDavidsonFatBoy_Wheel_Rear"
+      ]
+    },

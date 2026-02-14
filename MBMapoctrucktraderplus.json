@@ -1,0 +1,24 @@
+    {
+      "VehicleName": "MBM_Apocalypse_Truck",
+      "Height": 0,
+      "VehicleParts": [
+        "glowplug",
+        "TruckBattery",
+		"CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "MBM_Apocalypse_Truck_doors_driver",
+        "MBM_Apocalypse_Truck_doors_codriver",
+        "MBM_Apocalypse_Truck_doors_trunk",
+		"MBM_Apocalypse_Truck_doors_trunk1",
+        "MBM_Apocalypse_Truck_doors_cargo1",
+        "MBM_Apocalypse_Truck_Wheel_Front",
+        "MBM_Apocalypse_Truck_Wheel_Front",
+        "MBM_Apocalypse_Truck_Wheel_Rear",
+        "MBM_Apocalypse_Truck_Wheel_Rear",
+        "MBM_Apocalypse_Truck_Wheel_Rear",
+		"MBM_Apocalypse_Truck_Wheel_Rear",
+        "MBM_Apocalypse_Truck_Wheel_Rear",
+        "MBM_Apocalypse_Truck_Wheel_Rear"
+      ]
+    },
