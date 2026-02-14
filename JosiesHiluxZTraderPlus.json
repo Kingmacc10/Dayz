@@ -1,0 +1,1320 @@
+{
+      "VehicleName": "ToyotaHiluxZ_Truggy",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door",
+        "ToyotaHiluxZ_Driver_door",
+        "ToyotaHiluxZ_Hood",
+        "ToyotaHiluxZ_Trunk",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Yellow",
+        "ToyotaHiluxZ_Driver_door_Yellow",
+        "ToyotaHiluxZ_Hood_Yellow",
+        "ToyotaHiluxZ_Trunk_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Red",
+        "ToyotaHiluxZ_Driver_door_Red",
+        "ToyotaHiluxZ_Hood_Red",
+        "ToyotaHiluxZ_Trunk_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Pewter",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Pewter",
+        "ToyotaHiluxZ_Driver_door_Pewter",
+        "ToyotaHiluxZ_Hood_Pewter",
+        "ToyotaHiluxZ_Trunk_Pewter",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Emerald",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Emerald",
+        "ToyotaHiluxZ_Driver_door_Emerald",
+        "ToyotaHiluxZ_Hood_Emerald",
+        "ToyotaHiluxZ_Trunk_Emerald",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Cream",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Cream",
+        "ToyotaHiluxZ_Driver_door_Cream",
+        "ToyotaHiluxZ_Hood_Cream",
+        "ToyotaHiluxZ_Trunk_Cream",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_BrightBlue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_BrightBlue",
+        "ToyotaHiluxZ_Driver_door_BrightBlue",
+        "ToyotaHiluxZ_Hood_BrightBlue",
+        "ToyotaHiluxZ_Trunk_BrightBlue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Blue",
+        "ToyotaHiluxZ_Driver_door_Blue",
+        "ToyotaHiluxZ_Hood_Blue",
+        "ToyotaHiluxZ_Trunk_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_DarkRed",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_DarkRed",
+        "ToyotaHiluxZ_Driver_door_DarkRed",
+        "ToyotaHiluxZ_Hood_DarkRed",
+        "ToyotaHiluxZ_Trunk_DarkRed",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_White",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_White",
+        "ToyotaHiluxZ_Driver_door_White",
+        "ToyotaHiluxZ_Hood_White",
+        "ToyotaHiluxZ_Trunk_White",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door",
+        "ToyotaHiluxZ_Driver_door",
+        "ToyotaHiluxZ_Hood",
+        "ToyotaHiluxZ_Trunk",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Yellow",
+        "ToyotaHiluxZ_Driver_door_Yellow",
+        "ToyotaHiluxZ_Hood_Yellow",
+        "ToyotaHiluxZ_Trunk_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Red",
+        "ToyotaHiluxZ_Driver_door_Red",
+        "ToyotaHiluxZ_Hood_Red",
+        "ToyotaHiluxZ_Trunk_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_Pewter",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Pewter",
+        "ToyotaHiluxZ_Driver_door_Pewter",
+        "ToyotaHiluxZ_Hood_Pewter",
+        "ToyotaHiluxZ_Trunk_Pewter",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_Emerald",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Emerald",
+        "ToyotaHiluxZ_Driver_door_Emerald",
+        "ToyotaHiluxZ_Hood_Emerald",
+        "ToyotaHiluxZ_Trunk_Emerald",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_Cream",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Cream",
+        "ToyotaHiluxZ_Driver_door_Cream",
+        "ToyotaHiluxZ_Hood_Cream",
+        "ToyotaHiluxZ_Trunk_Cream",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_BrightBlue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_BrightBlue",
+        "ToyotaHiluxZ_Driver_door_BrightBlue",
+        "ToyotaHiluxZ_Hood_BrightBlue",
+        "ToyotaHiluxZ_Trunk_BrightBlue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Blue",
+        "ToyotaHiluxZ_Driver_door_Blue",
+        "ToyotaHiluxZ_Hood_Blue",
+        "ToyotaHiluxZ_Trunk_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_DarkRed",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_DarkRed",
+        "ToyotaHiluxZ_Driver_door_DarkRed",
+        "ToyotaHiluxZ_Hood_DarkRed",
+        "ToyotaHiluxZ_Trunk_DarkRed",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Truggy_Crawler_White",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_White",
+        "ToyotaHiluxZ_Driver_door_White",
+        "ToyotaHiluxZ_Hood_White",
+        "ToyotaHiluxZ_Trunk_White",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door",
+        "ToyotaHiluxZ_Driver_door",
+        "ToyotaHiluxZ_Hood",
+        "ToyotaHiluxZ_Trunk",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Yellow",
+        "ToyotaHiluxZ_Driver_door_Yellow",
+        "ToyotaHiluxZ_Hood_Yellow",
+        "ToyotaHiluxZ_Trunk_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Red",
+        "ToyotaHiluxZ_Driver_door_Red",
+        "ToyotaHiluxZ_Hood_Red",
+        "ToyotaHiluxZ_Trunk_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_Pewter",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+		"CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Pewter",
+        "ToyotaHiluxZ_Driver_door_Pewter",
+        "ToyotaHiluxZ_Hood_Pewter",
+        "ToyotaHiluxZ_Trunk_Pewter",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_Emerald",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Emerald",
+        "ToyotaHiluxZ_Driver_door_Emerald",
+        "ToyotaHiluxZ_Hood_Emerald",
+        "ToyotaHiluxZ_Trunk_Emerald",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_Cream",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Cream",
+        "ToyotaHiluxZ_Driver_door_Cream",
+        "ToyotaHiluxZ_Hood_Cream",
+        "ToyotaHiluxZ_Trunk_Cream",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_BrightBlue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_BrightBlue",
+        "ToyotaHiluxZ_Driver_door_BrightBlue",
+        "ToyotaHiluxZ_Hood_BrightBlue",
+        "ToyotaHiluxZ_Trunk_BrightBlue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Blue",
+        "ToyotaHiluxZ_Driver_door_Blue",
+        "ToyotaHiluxZ_Hood_Blue",
+        "ToyotaHiluxZ_Trunk_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_DarkRed",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_DarkRed",
+        "ToyotaHiluxZ_Driver_door_DarkRed",
+        "ToyotaHiluxZ_Hood_DarkRed",
+        "ToyotaHiluxZ_Trunk_DarkRed",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_OverLander_White",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_White",
+        "ToyotaHiluxZ_Driver_door_White",
+        "ToyotaHiluxZ_Hood_White",
+        "ToyotaHiluxZ_Trunk_White",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door",
+        "ToyotaHiluxZ_Driver_door",
+        "ToyotaHiluxZ_Hood",
+        "ToyotaHiluxZ_Trunk",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Yellow",
+        "ToyotaHiluxZ_Driver_door_Yellow",
+        "ToyotaHiluxZ_Hood_Yellow",
+        "ToyotaHiluxZ_Trunk_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Red",
+        "ToyotaHiluxZ_Driver_door_Red",
+        "ToyotaHiluxZ_Hood_Red",
+        "ToyotaHiluxZ_Trunk_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_Pewter",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Pewter",
+        "ToyotaHiluxZ_Driver_door_Pewter",
+        "ToyotaHiluxZ_Hood_Pewter",
+        "ToyotaHiluxZ_Trunk_Pewter",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_Emerald",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Emerald",
+        "ToyotaHiluxZ_Driver_door_Emerald",
+        "ToyotaHiluxZ_Hood_Emerald",
+        "ToyotaHiluxZ_Trunk_Emerald",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_Cream",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Cream",
+        "ToyotaHiluxZ_Driver_door_Cream",
+        "ToyotaHiluxZ_Hood_Cream",
+        "ToyotaHiluxZ_Trunk_Cream",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_BrightBlue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_BrightBlue",
+        "ToyotaHiluxZ_Driver_door_BrightBlue",
+        "ToyotaHiluxZ_Hood_BrightBlue",
+        "ToyotaHiluxZ_Trunk_BrightBlue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Blue",
+        "ToyotaHiluxZ_Driver_door_Blue",
+        "ToyotaHiluxZ_Hood_Blue",
+        "ToyotaHiluxZ_Trunk_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_DarkRed",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_DarkRed",
+        "ToyotaHiluxZ_Driver_door_DarkRed",
+        "ToyotaHiluxZ_Hood_DarkRed",
+        "ToyotaHiluxZ_Trunk_DarkRed",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Pickup_White",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_White",
+        "ToyotaHiluxZ_Driver_door_White",
+        "ToyotaHiluxZ_Hood_White",
+        "ToyotaHiluxZ_Trunk_White",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+	{
+      "VehicleName": "ToyotaHiluxZ_Flatbed",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door",
+        "ToyotaHiluxZ_Driver_door",
+        "ToyotaHiluxZ_Hood",
+        "ToyotaHiluxZ_Trunk",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Yellow",
+        "ToyotaHiluxZ_Driver_door_Yellow",
+        "ToyotaHiluxZ_Hood_Yellow",
+        "ToyotaHiluxZ_Trunk_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Red",
+        "ToyotaHiluxZ_Driver_door_Red",
+        "ToyotaHiluxZ_Hood_Red",
+        "ToyotaHiluxZ_Trunk_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Pewter",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Pewter",
+        "ToyotaHiluxZ_Driver_door_Pewter",
+        "ToyotaHiluxZ_Hood_Pewter",
+        "ToyotaHiluxZ_Trunk_Pewter",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Emerald",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Emerald",
+        "ToyotaHiluxZ_Driver_door_Emerald",
+        "ToyotaHiluxZ_Hood_Emerald",
+        "ToyotaHiluxZ_Trunk_Emerald",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Cream",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Cream",
+        "ToyotaHiluxZ_Driver_door_Cream",
+        "ToyotaHiluxZ_Hood_Cream",
+        "ToyotaHiluxZ_Trunk_Cream",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_BrightBlue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_BrightBlue",
+        "ToyotaHiluxZ_Driver_door_BrightBlue",
+        "ToyotaHiluxZ_Hood_BrightBlue",
+        "ToyotaHiluxZ_Trunk_BrightBlue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_Blue",
+        "ToyotaHiluxZ_Driver_door_Blue",
+        "ToyotaHiluxZ_Hood_Blue",
+        "ToyotaHiluxZ_Trunk_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_DarkRed",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_DarkRed",
+        "ToyotaHiluxZ_Driver_door_DarkRed",
+        "ToyotaHiluxZ_Hood_DarkRed",
+        "ToyotaHiluxZ_Trunk_DarkRed",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_White",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Codriver_door_White",
+        "ToyotaHiluxZ_Driver_door_White",
+        "ToyotaHiluxZ_Hood_White",
+        "ToyotaHiluxZ_Trunk_White",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Dirty_Black",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Dirty_Black",
+        "ToyotaHiluxZ_Codriver_door_Dirty_Black",
+        "ToyotaHiluxZ_Hood_Dirty_Black",
+        "ToyotaHiluxZ_Trunk_Dirty_Black",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Dirty_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Dirty_Blue",
+        "ToyotaHiluxZ_Codriver_door_Dirty_Blue",
+        "ToyotaHiluxZ_Hood_Dirty_Blue",
+        "ToyotaHiluxZ_Trunk_Dirty_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Dirty_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Dirty_Red",
+        "ToyotaHiluxZ_Codriver_door_Dirty_Red",
+        "ToyotaHiluxZ_Hood_Dirty_Red",
+        "ToyotaHiluxZ_Trunk_Dirty_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Dirty_White",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Dirty_White",
+        "ToyotaHiluxZ_Codriver_door_Dirty_White",
+        "ToyotaHiluxZ_Hood_Dirty_White",
+        "ToyotaHiluxZ_Trunk_Dirty_White",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Dirty_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Dirty_Yellow",
+        "ToyotaHiluxZ_Codriver_door_Dirty_Yellow",
+        "ToyotaHiluxZ_Hood_Dirty_Yellow",
+        "ToyotaHiluxZ_Trunk_Dirty_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Rusty_Green",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Rusty_Green",
+        "ToyotaHiluxZ_Codriver_door_Rusty_Green",
+        "ToyotaHiluxZ_Hood_Rusty_Green",
+        "ToyotaHiluxZ_Trunk_Rusty_Green",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Rusty_Orange",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Rusty_Orange",
+        "ToyotaHiluxZ_Codriver_door_Rusty_Orange",
+        "ToyotaHiluxZ_Hood_Rusty_Orange",
+        "ToyotaHiluxZ_Trunk_Rusty_Orange",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Rusty_Teal",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Rusty_Teal",
+        "ToyotaHiluxZ_Codriver_door_Rusty_Teal",
+        "ToyotaHiluxZ_Hood_Rusty_Teal",
+        "ToyotaHiluxZ_Trunk_Rusty_Teal",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Blue",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Blue",
+        "ToyotaHiluxZ_Codriver_door_Custom_Blue",
+        "ToyotaHiluxZ_Hood_Custom_Blue",
+        "ToyotaHiluxZ_Trunk_Custom_Blue",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Brown",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Brown",
+        "ToyotaHiluxZ_Codriver_door_Custom_Brown",
+        "ToyotaHiluxZ_Hood_Custom_Brown",
+        "ToyotaHiluxZ_Trunk_Custom_Brown",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Green",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Green",
+        "ToyotaHiluxZ_Codriver_door_Custom_Green",
+        "ToyotaHiluxZ_Hood_Custom_Green",
+        "ToyotaHiluxZ_Trunk_Custom_Green",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Grey",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Grey",
+        "ToyotaHiluxZ_Codriver_door_Custom_Grey",
+        "ToyotaHiluxZ_Hood_Custom_Grey",
+        "ToyotaHiluxZ_Trunk_Custom_Grey",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Orange",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Orange",
+        "ToyotaHiluxZ_Codriver_door_Custom_Orange",
+        "ToyotaHiluxZ_Hood_Custom_Orange",
+        "ToyotaHiluxZ_Trunk_Custom_Orange",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Purple",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+		"CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Purple",
+        "ToyotaHiluxZ_Codriver_door_Custom_Purple",
+        "ToyotaHiluxZ_Hood_Custom_Purple",
+        "ToyotaHiluxZ_Trunk_Custom_Purple",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Red",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Red",
+        "ToyotaHiluxZ_Codriver_door_Custom_Red",
+        "ToyotaHiluxZ_Hood_Custom_Red",
+        "ToyotaHiluxZ_Trunk_Custom_Red",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    },
+    {
+      "VehicleName": "ToyotaHiluxZ_Flatbed_Custom_Yellow",
+      "Height": 0,
+      "VehicleParts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ToyotaHiluxZ_Driver_door_Custom_Yellow",
+        "ToyotaHiluxZ_Codriver_door_Custom_Yellow",
+        "ToyotaHiluxZ_Hood_Custom_Yellow",
+        "ToyotaHiluxZ_Trunk_Custom_Yellow",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel",
+        "ToyotaHiluxZ_Wheel"
+      ]
+    }
